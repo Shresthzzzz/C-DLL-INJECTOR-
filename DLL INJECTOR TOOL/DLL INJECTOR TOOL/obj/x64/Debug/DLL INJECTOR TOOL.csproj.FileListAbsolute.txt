@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\bin\x64\Debug\DLL INJECTOR TOOL.exe.config
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\bin\x64\Debug\DLL INJECTOR TOOL.exe
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\bin\x64\Debug\DLL INJECTOR TOOL.pdb
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\x64\Debug\DLL INJECTOR TOOL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\x64\Debug\DLL_INJECTOR_TOOL.Form1.resources
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\x64\Debug\DLL_INJECTOR_TOOL.Properties.Resources.resources
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\x64\Debug\DLL INJECTOR TOOL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\x64\Debug\DLL INJECTOR TOOL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\x64\Debug\DLL INJECTOR TOOL.exe
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\x64\Debug\DLL INJECTOR TOOL.pdb
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\bin\x64\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\x64\Debug\DLL INJE.8039E778.Up2Date

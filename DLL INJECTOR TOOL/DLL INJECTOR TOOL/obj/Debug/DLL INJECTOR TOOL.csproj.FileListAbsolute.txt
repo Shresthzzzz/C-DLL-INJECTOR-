@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\bin\Debug\DLL INJECTOR TOOL.exe.config
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\bin\Debug\DLL INJECTOR TOOL.exe
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\bin\Debug\DLL INJECTOR TOOL.pdb
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\Debug\DLL INJECTOR TOOL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\Debug\DLL_INJECTOR_TOOL.Properties.Resources.resources
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\Debug\DLL INJECTOR TOOL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\Debug\DLL INJECTOR TOOL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\Debug\DLL INJECTOR TOOL.csproj.Fody.CopyLocal.cache
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\Debug\DLL INJECTOR TOOL.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\Debug\DLL INJECTOR TOOL.exe
+C:\Users\Admin\Desktop\DLL INJECTOR TOOL\DLL INJECTOR TOOL\obj\Debug\DLL INJECTOR TOOL.pdb
